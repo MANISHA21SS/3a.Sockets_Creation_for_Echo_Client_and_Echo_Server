@@ -10,14 +10,18 @@ Sockets Links.
 4. Send and receive the message using the send function in socket.
 ## PROGRAM:
 Client:
+
 ![3a client pro](https://github.com/MANISHA21SS/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147474298/0fb03274-7191-4a5c-a8cb-3ea64ed12c96)
 Server:
+
 ![3a](https://github.com/MANISHA21SS/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147474298/69c63e94-aec1-4db7-a975-4ec3b98683aa)
 
 ## OUPUT:
 Client:
+
 ![3a client out](https://github.com/MANISHA21SS/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147474298/8641ffd5-07be-4732-a1fc-c2f792ae1e1f)
 Server:
+
 ![3a server out](https://github.com/MANISHA21SS/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/147474298/993d3fbf-10c1-4f76-a8c3-3290ba607e06)
 
 ## RESULT
